@@ -1,0 +1,13 @@
+@import "tailwindcss";
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+/* Code ẩn thanh cuộn xấu xí đi */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

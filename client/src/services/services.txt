@@ -1,0 +1,3 @@
+nơi để callAPI 
+import vào chổ nào cần dùng api
+có mẫu từ testApi.js rồi em có thể dựa vào đó để làm cho đúng
